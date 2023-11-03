@@ -4,7 +4,7 @@ using System.Windows.Data;
 
 namespace ProgressBarUCL.Converters
 {
-    internal class ProgressBarValueToWidthConverter : IValueConverter
+    public class ProgressBarValueToWidthConverter : IValueConverter
     {
         public object Convert(object value, Type targetType, object parameter, CultureInfo culture)
         {

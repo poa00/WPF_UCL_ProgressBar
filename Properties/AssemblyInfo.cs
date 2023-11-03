@@ -6,9 +6,9 @@ using System.Windows;
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
 [assembly: AssemblyTitle("MovingProgressBarUCL")]
-[assembly: AssemblyDescription("")]
+[assembly: AssemblyDescription("WPF User Control Library")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("CIO")]
+[assembly: AssemblyCompany("POA")]
 [assembly: AssemblyProduct("MovingProgressBarUCL")]
 [assembly: AssemblyCopyright("Copyright © CIO 2023")]
 [assembly: AssemblyTrademark("")]

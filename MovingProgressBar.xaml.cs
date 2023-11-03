@@ -2,7 +2,7 @@
 using System.Windows;
 using System.Windows.Controls;
 
-namespace MovingProgressBarUCL
+namespace ProgressBarUCL
 {
     /// <summary>
     /// Interaction logic for MovingProgressBar.xaml
@@ -21,6 +21,6 @@ namespace MovingProgressBarUCL
         }
 
         public static readonly DependencyProperty ProgressBarValueProperty =
-            DependencyProperty.Register(nameof(ProgressBarValue), typeof(double), typeof(ProgressBar));
+            DependencyProperty.Register(nameof(ProgressBarValue), typeof(double), typeof(MovingProgressBar));
     }
 }

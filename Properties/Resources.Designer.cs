@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace MovingProgressBarUCL.Properties {
+namespace ProgressBarUCL.Properties {
     
     
     /// <summary>
